@@ -1,0 +1,8 @@
+{
+  "name": "ducks",
+  "version": "1.0.0",
+  "description": "ducks",
+  "main": "index.js",
+  "author": "rauf",
+  "license": "MIT"
+}
