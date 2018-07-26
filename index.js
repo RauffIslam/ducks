@@ -6,7 +6,7 @@ var pond = new Pond ({
 });
 
 var duck = pond.createDuck({
-    name: "Qwackk",
+    name: "duck",
     description: "The Coolest Duck",
     features: ["Cool", "Loves Bread"],
     health: 95
